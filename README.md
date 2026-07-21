@@ -11,4 +11,4 @@ Developed an introductory two-spacecraft mission in NASA GMAT for orbital propag
 ## Software
 - NASA GMAT R2026
 ## Results
-See the screenshots folder for simulation outputs.
+See the screenshots images for simulation outputs.
