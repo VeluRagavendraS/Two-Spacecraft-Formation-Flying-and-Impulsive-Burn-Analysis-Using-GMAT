@@ -1,4 +1,4 @@
-# Introductory-Two-Spacecraft-Formation-Flying-and-Impulsive-Burn-Simulation-using GMAT
+# Two-Spacecraft Formation Flying and Impulsive Burn Analysis Using GMAT
 Developed an introductory two-spacecraft mission in NASA GMAT for orbital propagation, formation flying, and impulsive burn simulation. Configured spacecraft, force models, numerical propagation, and mission visualization through Orbit View, Ground Track, and XY Plot.
 ## Overview
 This project was developed using the General Mission Analysis Tool (GMAT), an open-source space mission analysis software originally developed by NASA.
